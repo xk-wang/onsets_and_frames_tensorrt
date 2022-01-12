@@ -36,7 +36,7 @@ detailed information can be found in torch1.7.yaml
 see the [READE](python/onsets-and-frames/README.md) file under python/onsets-and-frames/
 
 ## Get the TensorRT Engine file
-1.train the model yourself or use the pretrained model in Baidu Netdisk https://pan.baidu.com/s/1a1nqgnQVvB-l66ijrc_3VA Extract code: 1234. Put the model file under models.
+1.train the model yourself or use the pretrained model in Baidu Netdisk https://pan.baidu.com/s/1SiW8A6DHa9du9RQyzouZSQ?pwd=8ir9 Extract code: 8ir9. Put the model file under models.
 
 2.convert the pt file to onnx
 ```bash
